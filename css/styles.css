@@ -21,3 +21,22 @@ h2 {
 h3 {
   color: #C69B7B;
 }
+
+/************************ CLASS SELECTORS ****************************/
+
+.circle1 {
+  border:  5px;
+  border-style: solid;
+  height: auto;
+  width: 300px;
+}
+
+.circlebase {
+  border-radius: 50%;
+  border-color: #C69B7B;
+
+}
+
+.fontstyle {
+  font-style: italic;
+}
